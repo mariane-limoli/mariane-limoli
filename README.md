@@ -14,3 +14,5 @@
   <img align="center" alt"CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt"SAP" src=" https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </div>
+
+![Snake animation](https://github.com/mariane-limoli/mariane-limoli/blob/output/github-contribution-grid-snake.svg)
