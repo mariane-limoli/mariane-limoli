@@ -24,5 +24,6 @@
   <img align="center" alt"CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   
 </div>
-
-![Snake animation](https://github.com/mariane-limoli/mariane-limoli/blob/output/github-contribution-grid-snake.svg)
+<div style="display: inline_block"><br/>
+  <img align="center"   height="100" width="100" padding="100" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" />
+</div>
